@@ -245,7 +245,6 @@ What do you call a sleeping bull? A bulldozer.
 Why did the lion eat the comedian? He wanted a taste of the funny bone.
 What do you call a cow with no legs? Ground beef.
 Why don’t oysters share their pearls? Because they’re shellfish.
-Why did the tomato turn red? Because it saw the salad dressing.
 What did the bread say to the butter? You’re on a roll!
 What’s a vampire’s favorite fruit? A necktarine.
 Why do pancakes always win at baseball? They have the best batter.
@@ -360,7 +359,6 @@ What do you call a sleeping bull? A bulldozer.
 Why did the lion eat the comedian? He wanted a taste of the funny bone.
 What do you call a cow with no legs? Ground beef.
 Why don’t oysters share their pearls? Because they’re shellfish.
-Why did the tomato turn red? Because it saw the salad dressing.
 What did the bread say to the butter? You’re on a roll!
 What’s a vampire’s favorite fruit? A necktarine.
 Why do pancakes always win at baseball? They have the best batter.
@@ -448,7 +446,6 @@ What do you call a snowman in July? A puddle.
 Why did the golfer wear two pairs of pants? In case he got a hole in one.
 What do you call a bear with no ears? B.
 Why did the math book look so sad?
-Why did the tomato turn red? Because it saw the salad dressing!
 What do you call cheese that isn’t yours? Nacho cheese!
 Why don’t eggs tell jokes? They’d crack each other up.
 What’s a vampire’s favorite fruit? A blood orange.
@@ -648,3 +645,4 @@ Why did the pillow go to therapy? It had too much stuffing inside.
 What’s a door’s favorite snack? Knob-corn.
 Why did the plant break up with the fern? It needed more space.
 What did the blanket say to the bed? I’ve got you covered!
+
