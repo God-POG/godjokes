@@ -67,7 +67,6 @@ Did you hear about the cheese factory that exploded in France? There was nothing
 Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
 Did you hear about the guy who invented Lifesavers? They say he made a mint.
 Did you hear about the guy whose whole left side was cut off? He's all right now.
-Did you hear about the kidnapping at school? It's ok, he woke up.
 Did you hear about the Mexican train killer? He had loco motives.
 Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.
 Did you hear about the runner who was criticized? He just took it in stride.
@@ -465,7 +464,6 @@ What do you call a fish wearing a bowtie? Sofishticated.
 Why don’t elephants use computers? They’re afraid of the mouse.
 What do you call a sleeping bull? A bulldozer.
 Why did the chicken join a band? Because it had the drumsticks.
-Did you hear about the kidnapping at the park? They woke him up. (Just kidding—sun’s still out!)
 What did one raindrop say to the other? Two’s company, three’s a cloud.
 Why did the man bring a ladder to the bar? Because he heard the drinks were on the house.
 What’s a tornado’s favorite game? Twister!
@@ -565,7 +563,6 @@ What do you call a fish wearing a bowtie? Sofishticated.
 Why don’t elephants use computers? They’re afraid of the mouse.
 What do you call a sleeping bull? A bulldozer.
 Why did the chicken join a band? Because it had the drumsticks.
-Did you hear about the kidnapping at the park? They woke him up. (Just kidding—sun’s still out!)
 What did one raindrop say to the other? Two’s company, three’s a cloud.
 Why did the man bring a ladder to the bar? Because he heard the drinks were on the house.
 What’s a tornado’s favorite game? Twister!
@@ -645,4 +642,5 @@ Why did the pillow go to therapy? It had too much stuffing inside.
 What’s a door’s favorite snack? Knob-corn.
 Why did the plant break up with the fern? It needed more space.
 What did the blanket say to the bed? I’ve got you covered!
+
 
