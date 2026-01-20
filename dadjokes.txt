@@ -465,7 +465,6 @@ What did the grape say when it got stepped on? Nothing, it just let out a little
 Why don't apples ever argue? Because they don't have a core problem.
 What's the most efficient way to chop an onion? With a knife, obviously.
 Why did the grape stop in the middle of the road? Because it ran out of juice.
-What do you call a sad coffee? Despresso.
 Why did the butcher work extra hours? To make ends meat.
 I used to be a baker. But I couldn't make enough dough.
 I tried to catch some fog earlier. I mist.
@@ -655,5 +654,6 @@ How do paintbrushes express feelings? Through colorful strokes.
 Why do stars love their jobs? They shine bright in the night.
 What did the moon say to the stars? Glow on.
 Try counting the atoms in your hand. If you divide the total I hear its an explosive answer
+
 
 
